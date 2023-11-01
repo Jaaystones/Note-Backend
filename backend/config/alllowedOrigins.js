@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://stonegrowthcommunity.onrender.com'    
+    'https://stonegrowth.onrender.com'    
 ]
 
 export default allowedOrigins; 
