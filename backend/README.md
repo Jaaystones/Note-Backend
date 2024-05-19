@@ -11,9 +11,9 @@ To get started with CMMS, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Jaaystones/Note-API.git
+   git clone https://github.com/Jaaystones/Note-Backend.git
 
-   cd Note-API
+   cd Note-Backend
 
    ```
 
